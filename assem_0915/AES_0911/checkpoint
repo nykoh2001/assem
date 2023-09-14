@@ -1,0 +1,2 @@
+model_checkpoint_path: "transformer_modified_only_AES_0911"
+all_model_checkpoint_paths: "transformer_modified_only_AES_0911"
