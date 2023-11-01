@@ -1,0 +1,2 @@
+model_checkpoint_path: "transformer_modified_total_1022"
+all_model_checkpoint_paths: "transformer_modified_total_1022"
